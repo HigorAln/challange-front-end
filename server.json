@@ -1,0 +1,109 @@
+{
+  "enterprises": [
+    {
+      "id": "PA01",
+      "name": "Sirius Vila Bastos",
+      "status": "Lançamento",
+      "purpose": "Residencial",
+      "ri_number": "123321",
+      "address": {
+        "district": "Vila Bastos",
+        "city": "Santo André",
+        "street": "Rua Doutor Messuti",
+        "state": "SP",
+        "number": "339",
+        "cep": "60000000"
+      }
+    },
+    {
+      "id": "PA02",
+      "name": "Moriah Ipiranga",
+      "status": "Lançamento",
+      "purpose": "Residencial",
+      "ri_number": "321123",
+      "address": {
+        "street": "Rua Lucinda Ferreira",
+        "number": "173",
+        "district": "Ipiranga",
+        "city": "São Paulo",
+        "state": "SP",
+        "cep": "60000000"
+      }
+    },
+    {
+      "id": "PA03",
+      "name": "Sirius Campinas",
+      "status": "Lançamento",
+      "purpose": "Residencial",
+      "ri_number": "987654",
+      "address": {
+        "street": "Av. Aquidabã",
+        "number": "280",
+        "district": "Zona Heteleira Aquidabã",
+        "city": "Campinas",
+        "state": "SP",
+        "cep": "60000000"
+      }
+    },
+    {
+      "id": "e91e02bd-d667-4b01-b6de-f0d8b0177ded",
+      "name": "JavaScript Corporation",
+      "status": "Lançamento",
+      "purpose": "Comercial",
+      "ri_number": "",
+      "address": {
+        "street": "Rua Tupy",
+        "number": "343",
+        "district": "Salgado",
+        "city": "Caruaru",
+        "state": "PE",
+        "cep": "55016-080"
+      }
+    },
+    {
+      "id": "53f0c613-d3fd-4b71-b8cf-c9df3f274be1",
+      "name": "League of legends Corpotations",
+      "status": "Lançamento",
+      "purpose": "Comercial",
+      "ri_number": "",
+      "address": {
+        "street": "Rua Tupy",
+        "number": "52",
+        "district": "Salgado",
+        "city": "Caruaru",
+        "state": "PE",
+        "cep": "55016-080"
+      }
+    },
+    {
+      "id": "2bec63c5-507a-46fe-b0fc-a69c99bf0094",
+      "name": "Nath Kids",
+      "status": "Lançamento",
+      "purpose": "Purpose",
+      "ri_number": "",
+      "address": {
+        "street": "Rua Tupy",
+        "number": "80",
+        "district": "Salgado",
+        "city": "Caruaru",
+        "state": "PE",
+        "cep": "55016080"
+      }
+    },
+    {
+      "id": "3195d6f4-200a-4e92-b09d-c3aaf7ac3355",
+      "name": "Um lancamento",
+      "status": "Em obras",
+      "purpose": "Comercial",
+      "ri_number": "",
+      "address": {
+        "street": "Rua Senador Nilo Coelho",
+        "number": "54",
+        "district": "São João da Escócia",
+        "city": "Caruaru",
+        "state": "PE",
+        "cep": "55019-155"
+      }
+    }
+  ]
+}
