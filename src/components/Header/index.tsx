@@ -1,7 +1,6 @@
 import { Button } from '../../styles/components/Button'
 import { Header } from './Header'
 import Link from 'next/link';
-import {FiPlus} from 'react-icons/fi'
 
 export function HeaderComponent(){
 
